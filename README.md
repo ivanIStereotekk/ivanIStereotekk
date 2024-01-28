@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, this is Ivan's GitHub. 👋
+This GitHub page contains projects and repos that was init by Ivan Goncharov.
+#### Here is so many things that was started to do but abandoned for a while.
 
 <!--
 **ivanIStereotekk/ivanIStereotekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
