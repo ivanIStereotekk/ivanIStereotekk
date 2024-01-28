@@ -1,6 +1,7 @@
-### Hi there, this is Ivan's GitHub. 👋
-This GitHub page contains projects and repos that was init by Ivan Goncharov.
-#### Here is so many things that was started to do but abandoned for a while.
+### Hi there, this is Ivan Stereotekk's GitHub. 👋
+This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
+#Notice:
+Here is so many things that was started to do but abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it.
 
 <!--
 **ivanIStereotekk/ivanIStereotekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
