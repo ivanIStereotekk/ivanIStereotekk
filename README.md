@@ -1,9 +1,9 @@
-### Hi there, this is Ivan Stereotekk's GitHub. 👋
+### Hi there, this is Ivan Goncharov [ Ivan Stereotekk's ] GitHub. 👋
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
 ##### Noticement:
 Here is so many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
 ##### Important:
-Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects so keep them at hand.
+Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects for keep them at hand.
 
 ##### Most interesting repos:
 
@@ -16,6 +16,16 @@ algorythms: https://github.com/ivanIStereotekk/Python_Algorythms - this is repo 
 kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepared basik docker-compose shape for real project usage.
 fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django celery redis flower postgres docker-copose . And it works ! 
 surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
+
+
+#### You wanna contact with me ?
+
+personal website: http://www.iskk.space
+Linkedin: https://www.linkedin.com/in/ivan-goncharov-422529243/
+email: ivan.stareotekk@gmail.com
+soundcloud: https://soundcloud.com/ivanstereotekk
+
+My C.V or resume is here: http://www.iskk.space/resume
 
 
 
