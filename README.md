@@ -1,32 +1,32 @@
 ### Hi there, this is Ivan Goncharov [ Ivan Stereotekk's ] GitHub. 👋
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
 ##### Noticement:
-Here is so many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
+Here are many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
 ##### Important:
-Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects for keep them at hand.
+Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects to keep them at hand.
 
 ##### Most interesting repos:
 
-test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i've been started as test task for the company but then i decided to write whole backend for the pet project. As seems to me there are most interesting and actual practices and technologies that i would prefer to use in real project. 
+test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i've been started this project as test task for the company but then i continued to write like a whole backend for the pet project. As seems to me there are interesting and actual practices and technologies that i would prefer to use in the real project. Still in development.
 
-ruka: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ]
+ruka: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ] you may see it. www.iskk.space
 
-ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - website created by me for the client company [ ascue.pro ]
+ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - The website created by me for the client's company [ ascue.pro ]
 
-fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices example to keep coding by proper way.
+fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices cheet-sheat to keep coding properly.
 
-airflow starter: https://github.com/ivanIStereotekk/airflow_starter - this is astronomer Apache AirFlow starter pack with basic settings for the personal needs.
+airflow starter: https://github.com/ivanIStereotekk/airflow_starter - this is the astronomer Apache AirFlow starter pack with basic settings for the project needs.
 
-algorythms: https://github.com/ivanIStereotekk/Python_Algorythms - this is repo for educational purposes so you may find there everything that requires proper skilled coder.
+algorythms: https://github.com/ivanIStereotekk/Python_Algorythms - this repo for educational purposes so you may find there everything that requires proper skilled coder.
 
-kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepared basik docker-compose shape for real project usage.
+kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepared basic docker-compose for the real project usage.
 
-fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django celery redis flower postgres docker-copose . And it works ! 
+fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django, celery, redis, flower, postgres, docker-copose . And it works ! 
 
 surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
 
 
-#### You wanna contact with me ?
+#### Contacts:
 
 personal website: http://www.iskk.space
 
