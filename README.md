@@ -8,22 +8,35 @@ Often i do fork for the projects that was interesting for me. I think it is conv
 ##### Most interesting repos:
 
 test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i've been started as test task for the company but then i decided to write whole backend for the pet project. As seems to me there are most interesting and actual practices and technologies that i would prefer to use in real project. 
+
 ruka: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ]
+
 ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - website created by me for the client company [ ascue.pro ]
+
 fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices example to keep coding by proper way.
+
 airflow starter: https://github.com/ivanIStereotekk/airflow_starter - this is astronomer Apache AirFlow starter pack with basic settings for the personal needs.
+
 algorythms: https://github.com/ivanIStereotekk/Python_Algorythms - this is repo for educational purposes so you may find there everything that requires proper skilled coder.
+
 kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepared basik docker-compose shape for real project usage.
+
 fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django celery redis flower postgres docker-copose . And it works ! 
+
 surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
 
 
 #### You wanna contact with me ?
 
 personal website: http://www.iskk.space
+
 Linkedin: https://www.linkedin.com/in/ivan-goncharov-422529243/
+
 email: ivan.stareotekk@gmail.com
+
 soundcloud: https://soundcloud.com/ivanstereotekk
+
+
 
 My C.V or resume is here: http://www.iskk.space/resume
 
