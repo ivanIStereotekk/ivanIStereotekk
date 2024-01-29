@@ -1,6 +1,6 @@
 ### Hi there, this is Ivan Goncharov [ Ivan Stereotekk's ] GitHub. 👋
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
-##### Noticement:
+##### Notice:
 Here are many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
 ##### Important:
 Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects to keep them at hand.
@@ -11,7 +11,7 @@ test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i
 
 ruka: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ] you may see it. www.iskk.space
 
-ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - The website created by me for the client's company [ ascue.pro ]
+ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - The website created by me for the client's company [ ascue.pro ] it works here: www.ascue.pro
 
 fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices cheet-sheat to keep coding properly.
 
