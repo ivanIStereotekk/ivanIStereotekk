@@ -1,7 +1,27 @@
 ### Hi there, this is Ivan Stereotekk's GitHub. 👋
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
-#### Noticement:
-Here is so many things that was started to do but abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it.
+##### Noticement:
+Here is so many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
+##### Important:
+Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects so keep them at hand.
+
+##### Most interesting repos:
+
+test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i've been started as test task for the company but then i decided to write whole backend for the pet project. As seems to me there are most interesting and actual practices and technologies that i would prefer to use in real project. 
+ruka: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ]
+ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - website created by me for the client company [ ascue.pro ]
+fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices example to keep coding by proper way.
+airflow starter: https://github.com/ivanIStereotekk/airflow_starter - this is astronomer Apache AirFlow starter pack with basic settings for the personal needs.
+algorythms: https://github.com/ivanIStereotekk/Python_Algorythms - this is repo for educational purposes so you may find there everything that requires proper skilled coder.
+kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepared basik docker-compose shape for real project usage.
+fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django celery redis flower postgres docker-copose . And it works ! 
+surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
+
+
+
+
+
+
 
 <!--
 **ivanIStereotekk/ivanIStereotekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
