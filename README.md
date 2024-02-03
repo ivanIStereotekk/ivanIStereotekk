@@ -1,5 +1,5 @@
 ### Hi there, this is Ivan Goncharov [ Ivan Stereotekk's ] GitHub. 👋
-This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space there are so many interesting things about his music and ideas.
+This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space/resume .
 ##### Notice:
 Here are many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
 ##### Important:
