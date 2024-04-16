@@ -25,6 +25,8 @@ fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work
 
 surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
 
+pyinitor: just simple script that creates default python project with venv and some files inside [https://github.com/ivanIStereotekk/pyinitor/blob/main/README.md]
+
 
 #### Contacts:
 
