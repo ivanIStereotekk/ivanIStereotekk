@@ -4,7 +4,7 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 
 > [!NOTE]
->Here are many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
+> Here are many things that was started by me but then abandoned for a while. I promising to myself make some clean and organise these things but i still busy for doing it today.
 
 
 
@@ -12,7 +12,6 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 
 > [!IMPORTANT]
-
 > Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects to keep them at hand.
 
 
