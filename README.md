@@ -20,7 +20,7 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 ##### Most interesting repos:
 
 current_project: https://github.com/ivanIStereotekk/veles-web_app/tree/main
-Basic user accsess and management - Just small part of huge web application which should cover in the future all business needs about construction topic. I still working  with this app but it's gonna happen that i'll hide it soon. Still in development)
+Basic user accsess and management - Just small part of huge web application which should cover in the future all business needs about construction topic. I still working  with this app but it's gonna happen that i'll hide it soon. Maybe...
 
 
 
