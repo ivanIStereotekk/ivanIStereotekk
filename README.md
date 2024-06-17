@@ -51,8 +51,10 @@ Linkedin: https://www.linkedin.com/in/ivan-goncharov-422529243/
 
 email: ivan.stareotekk@gmail.com
 
-I really love record electronic music and it's been many years that i'm doing it with much love. 
-soundcloud: https://soundcloud.com/ivanstereotekk
+
+> [!TIP]
+> I really love record electronic music and it's been many years that i'm doing it with much love. 
+> soundcloud: https://soundcloud.com/ivanstereotekk
 
 
 
