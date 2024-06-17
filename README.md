@@ -1,5 +1,5 @@
 ### Hi there, this is Ivan Goncharov's GitHub. 👋
-This GitHub page contains projects and repos that was initiated by Ivan Goncharov. If you wanna know who is this guy please visit http://www.iskk.space/resume .
+This GitHub page contains projects and repos that was initiated by Ivan Goncharov.
 
 
 
@@ -18,6 +18,11 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 ---------------------------
 ##### Most interesting repos:
+
+current_project: https://github.com/ivanIStereotekk/veles-web_app/tree/main
+Basic user accsess and management - Just small part of huge web application which should cover in the future all business needs about construction topic. I still working  with this app but it's gonna happen that i'll hide it soon. Still in development)
+
+
 
 cherkizovo: https://github.com/ivanIStereotekk/cherkizovo test task
 
