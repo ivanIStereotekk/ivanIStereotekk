@@ -23,9 +23,7 @@ cherkizovo: https://github.com/ivanIStereotekk/cherkizovo test task
 
 test mango: https://github.com/ivanIStereotekk/test_mango - since the begining i've been started this project as test task for the company but then i continued to write like a whole backend for the pet project. As seems to me there are interesting and actual practices and technologies that i would prefer to use in the real project. Still in development.
 
-isk.sapce: https://github.com/ivanIStereotekk/ruka - my personal website [ iskk.space ] you may see it. www.iskk.space
 
-ascue_pro_web_app: https://github.com/ivanIStereotekk/ascue_pro_web_app - The website created by me for the client's company [ ascue.pro ] it works here: www.ascue.pro
 
 fastapi best practices:  https://github.com/ivanIStereotekk/fastapi-best-practices  - sometimes i using it as best practices cheet-sheat to keep coding properly.
 
@@ -37,28 +35,24 @@ kafka all stars: https://github.com/ivanIStereotekk/kafka-all-stars - self prepa
 
 fullstat test: https://github.com/ivanIStereotekk/fullstat_test - test task work with django, celery, redis, flower, postgres, docker-copose . And it works ! 
 
-surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly.  
+surr.space : https://github.com/ivanIStereotekk/surr.space - this is a website written on NEXT.js that i wanted to deploy as my personal developer page. It works but my ideas evolving and transforming so quickly. Actually i made this project for personal progression so learn roupes about frontend TypeScript/React/Next/TailwindCSS.
+Many practices here been spied from guys that i respecting their skills. I sure that is good way to look other devs code to learn properly. 
 
-pyinitor: just simple script that creates default python project with venv and some files inside [https://github.com/ivanIStereotekk/pyinitor/blob/main/README.md]
+Pyinitor: Just simple sh script that creates new python project with virtualenv and some files inside the directory (.env, README.md, main.py, requirements.txt )
+It's so convinient to init python project with one cmd prompt.
+
+[https://github.com/ivanIStereotekk/pyinitor/blob/main/README.md]
 
 
 #### Contacts:
 
-personal website: http://www.iskk.space
 
 Linkedin: https://www.linkedin.com/in/ivan-goncharov-422529243/
 
 email: ivan.stareotekk@gmail.com
 
+I really love record electronic music and it's been many years that i'm doing it with much love. 
 soundcloud: https://soundcloud.com/ivanstereotekk
-
-
-
-My C.V or resume is here: http://www.iskk.space/resume
-
-
-
-
 
 
 
