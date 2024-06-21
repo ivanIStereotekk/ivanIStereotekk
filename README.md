@@ -12,7 +12,8 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 
 > [!IMPORTANT]
-> Often i do fork for the projects that was interesting for me. I think it is convenient way to gather interesting projects to keep them at hand.
+> Earlier i did forks for the projects that was interesting for me. I thought that is convenient way to gather interesting projects to keep them at hand.
+> But then i found the option to push the "star" and organize list to keep interesting projects logically. I still learning to make things better to make my world better.
 
 
 
