@@ -59,8 +59,9 @@ email: ivan.stareotekk@gmail.com
 
 
 > [!TIP]
-> I really love record electronic music and it's been many years that i'm doing it with much love. 
-> soundcloud: https://soundcloud.com/ivanstereotekk
+> I really love record electronic music and it's been many years that i'm doing it with much love.
+
+> SoundCloud: https://soundcloud.com/ivanstereotekk
 
 
 
