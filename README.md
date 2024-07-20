@@ -2,7 +2,7 @@
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov.
 
 > [!TIP]
-> На текущий момент я не претендую на гениальность или уникальность в программировании. Мне нравится программировать! Я учусь, работаю, расту и развиваюсь, выполняю поставленные мне задачи. 
+> I'm not pretending to be genius or uniq in programming. I simply love to do this ! Currently i working as softweer developer, still learning end rising skills for being well programmer, but the same time i commiting all tasks that i got.
 
 
 > [!NOTE]
