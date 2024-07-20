@@ -1,7 +1,8 @@
 ### Hi there, this is Ivan Goncharov's GitHub. 👋
 This GitHub page contains projects and repos that was initiated by Ivan Goncharov.
 
-
+> [!TIP]
+> На текущий момент я не претендую на гениальность или уникальность в программировании. Мне нравится программировать! Я учусь, работаю, расту и развиваюсь, выполняю поставленные мне задачи. 
 
 
 > [!NOTE]
