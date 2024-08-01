@@ -12,9 +12,6 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 
 
-> [!IMPORTANT]
-> Earlier i did forks for the projects that was interesting for me. I thought that is convenient way to gather interesting projects to keep them at hand.
-> But then i found the option in GitHub to push the "star" and organize list and topics to keep things logically.
 
 
 
