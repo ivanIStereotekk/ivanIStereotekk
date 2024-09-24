@@ -17,7 +17,7 @@ This GitHub page contains projects and repos that was initiated by Ivan Goncharo
 
 >> B A C K E N D S
 
-current_project: [https://github.com/ivanIStereotekk/veles]
+current_project: [https://github.com/ivanIStereotekk/fapi-users-veles/tree/main]
 Basic user accsess and management - Just small part of huge web application which should cover in the future all business needs about construction topic. I still working  with this app but it's gonna happen that i'll hide it soon. Maybe... Wanna try ? Clone it ! Make .env file in dir then build docker compose. Do not forget to change within .env - PRODUCTION_BUILD='True'. 
 Works fine here: http://45.128.207.89/docs
 
