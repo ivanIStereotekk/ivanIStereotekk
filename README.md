@@ -4,15 +4,15 @@
 **Я Иван Гончаров**  ✨ бекенд ✨ разработчик. На текущий момент разрабатываю SaaS приложение в комманде разработчиков компании @Велес.
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ivan-goncharov-422529243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://hh.ru/resume/eeb0fec4ff0ded24490039ed1f73365749456d">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-Если вы хотите связаться со мной, то прошу писать на почту ivan.atp3@gmail.com или в телеграм @ivanG808:
+Если вы хотите связаться со мной:  ivan.atp3@gmail.com или в телеграм @ivanG808:
 
 Языки программирования и технологии/фреймворки с которыми я работаю.
 
