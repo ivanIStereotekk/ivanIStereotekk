@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ivan-goncharov-422529243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://hh.ru/resume/eeb0fec4ff0ded24490039ed1f73365749456d">
+  <a href="https://twitter.com/?lang=ru">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
