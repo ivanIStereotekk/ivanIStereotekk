@@ -46,7 +46,9 @@
 
 ---
 
-<img height="150" width="150" href="https://stackoverflow.com/users/17320881/ewang808" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" />
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=ivan|Stereotekk)](https://github.com/anuraghazra/github-readme-stats)
            
           
           
