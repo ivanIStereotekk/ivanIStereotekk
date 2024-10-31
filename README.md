@@ -24,10 +24,10 @@
 
 ---
 
-<i class="devicon-python-plain-wordmark colored"></i>
+<i font-size="15" class="devicon-python-plain-wordmark colored"></i>
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img height="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
           
           
