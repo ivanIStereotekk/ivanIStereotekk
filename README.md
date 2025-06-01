@@ -15,7 +15,7 @@
   </a>
 </div>
 
-Если вы хотите связаться со мной:  ivan.stereotekk3@gmail.com или в телеграм @ewanG808:
+Если вы хотите связаться со мной:  ivan.stereotekk@gmail.com или в телеграм @ewanG808:
 
 ---
 
