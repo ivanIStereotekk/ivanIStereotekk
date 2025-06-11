@@ -7,7 +7,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ivan-goncharov-60720a369/">
+  <a href="[https://www.linkedin.com/in/ivan-goncharov-60720a369/](https://www.linkedin.com/in/ivan-goncharov-01b2a736a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/?lang=ru">
