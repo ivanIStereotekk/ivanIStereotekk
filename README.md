@@ -10,7 +10,13 @@
   <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [<kbd> <br> P O R T F O L I O <br> </kbd>][https://ivanistereotekk.github.io/]
+  <a href="https://ivanistereotekk.github.io/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+<div>
+  <kdb href='https://gooooo.com'> Portfolio </kdb>
 </div>
 
 Если вы хотите связаться со мной:  ivan.stereotekk@gmail.com или в телеграм @ewanG808:
