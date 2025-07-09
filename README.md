@@ -7,15 +7,17 @@
 
 
 <div id="badges">
+  
   <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">L I N K E D I N</a>
+  <hr/>
 
   
   <a href="https://ivanistereotekk.github.io/">P O R T F O L I O</a>
+
+  
 </div>
 
-<div>
-  <kdb href='https://gooooo.com'> Portfolio </kdb>
-</div>
+---
 
 Если вы хотите связаться со мной:  ivan.stereotekk@gmail.com или в телеграм @ewanG808:
 
