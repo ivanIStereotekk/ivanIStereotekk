@@ -7,12 +7,10 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://ivanistereotekk.github.io/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">L I N K E D I N</a>
+
+  
+  <a href="https://ivanistereotekk.github.io/">P O R T F O L I O</a>
 </div>
 
 <div>
