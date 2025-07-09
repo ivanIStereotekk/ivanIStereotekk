@@ -10,9 +10,7 @@
   <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/?lang=ru">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  [<kbd> <br> P O R T F O L I O <br> </kbd>][https://ivanistereotekk.github.io/]
 </div>
 
 Если вы хотите связаться со мной:  ivan.stereotekk@gmail.com или в телеграм @ewanG808:
