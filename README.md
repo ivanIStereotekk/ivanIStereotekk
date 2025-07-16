@@ -73,7 +73,8 @@ Fронтенд с фреймворком next.js
 
 <p>
 Если у вас возникла необходимость ознакомится с моим опытом, то по этой ссылке вы найдете мое
-<a href="https://drive.google.com/file/d/1JKwN-AK3glRn_Geitr7PkRLX0SD70j-C/view?usp=sharing">РЕЗЮМЕ</a>.
+<a href="https://drive.google.com/file/d/1ZnBkSagQqw0IyEXQS_CC3Y3a9gbSohLf/view?usp=drive_link">РЕЗЮМЕ</a>.
+  
 </p>
 <p>
 Рекомендация с места работы
