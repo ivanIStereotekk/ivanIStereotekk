@@ -8,13 +8,13 @@
 
 <div id="badges">
   
-  <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">L I N K E D I N</a>
+  <a href="https://www.linkedin.com/in/ivan-goncharov-01b2a736a/">Linkedin Profile</a>
   <hr/>
 
   
-  <a href="https://ivan-telepop.github.io/">B L O G  &  P O R T F O L I O</a>
+  <a href="https://ivan-telepop.github.io/">Personal Blog & Portfolio</a>
 
-  <a href="https://ivan-telepop.github.io/hidden-garden/">WEB SITE ON NEXT.JS + TAILWIND  -  LIKE DEMO-DEMO</a>
+  <a href="https://ivan-telepop.github.io/hidden-garden/">Web Site Created With React | Next.js | Tailwind</a>
 
   
 </div>
