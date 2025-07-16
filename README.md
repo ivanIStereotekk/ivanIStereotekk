@@ -13,8 +13,11 @@
 
   
   <a href="https://ivan-telepop.github.io/">Personal Blog & Portfolio</a>
+  <hr/>
+Frontend app: 
 
   <a href="https://ivan-telepop.github.io/hidden-garden/">Web Site Created With React | Next.js | Tailwind</a>
+Так я эксперементирую с фронтенд фреймворком next.js
 
   
 </div>
