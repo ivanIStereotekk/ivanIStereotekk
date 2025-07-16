@@ -12,7 +12,7 @@
   <hr/>
 
   
-  <a href="https://ivanistereotekk.github.io/">P O R T F O L I O</a>
+  <a href="https://ivan-telepop.github.io/">P O R T F O L I O</a>
 
   
 </div>
@@ -56,10 +56,10 @@
 ---
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=ivanIStereotekk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=ivan-telepop)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanIStereotekk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-telepop)](https://github.com/anuraghazra/github-readme-stats)
           
 
 ---
