@@ -12,7 +12,9 @@
   <hr/>
 
   
-  <a href="https://ivan-telepop.github.io/">P O R T F O L I O</a>
+  <a href="https://ivan-telepop.github.io/">B L O G  &  P O R T F O L I O</a>
+
+  <a href="https://ivan-telepop.github.io/hidden-garden/">WEB SITE ON NEXT.JS + TAILWIND  -  LIKE DEMO-DEMO</a>
 
   
 </div>
