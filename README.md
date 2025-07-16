@@ -17,7 +17,8 @@
 Frontend app: 
 
   <a href="https://ivan-telepop.github.io/hidden-garden/">Web Site Created With React | Next.js | Tailwind</a>
-Так я эксперементирую с фронтенд фреймворком next.js
+  
+Fронтенд с фреймворком next.js
 
   
 </div>
